@@ -1,22 +1,21 @@
 ## Welcome to ATom GitHub Pages
 <details>
-  <summary> This is no secret </summary>
+  <summary> >This is no secret </summary>
   <details>
-    <summary> This is really no secret </summary>
+    <summary> >This is really no secret </summary>
     <details>
-       <summary> I Said No Secret Here! </summary>
+       <summary> >I Said No Secret Here! </summary>
       <details>
-        <summary> Enough! Don't have anything Here! </summary>
+        <summary> >Enough! Don't have anything Here! </summary>
         <details>
-          <summary> TADAAAAA I Told You </summary>
-          > ![Image](https://github.com/Reconer07/Reconer07.github.io/blob/master/77A03A4D-99F1-43FC-8EB0-CED55E39B847.jpeg?raw=true)
+          <summary> >TADAAAAA I Told You </summary>
+            <img src="https://github.com/Reconer07/Reconer07.github.io/blob/master/77A03A4D-99F1-43FC-8EB0-CED55E39B847.jpeg?raw=true" >
          </details>
-      </details>
+       </details>
      </details>
-    </details>
-  </details>
+   </details>
 </details>
-<summary> </summary>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
