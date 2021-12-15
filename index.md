@@ -1,14 +1,14 @@
 ## Welcome to ATom GitHub Pages
 <details>
-  <summary> ** >This is no secret ** </summary>
+  <summary> <b> >This is no secret </b> </summary>
   <details>
-    <summary> **>This is really no secret** </summary>
+    <summary> <b> >This is really no secret </b> </summary>
     <details>
-       <summary> **>I Said No Secret Here!** </summary>
+       <summary> <b> >I Said No Secret Here! </b>  </summary>
       <details>
-        <summary> **>Enough! Don't have anything Here!** </summary>
+        <summary> <b> >Enough! Don't have anything Here! </b> </summary>
         <details>
-          <summary> **>TADAAAAA I Told You** </summary>
+          <summary> <b> >TADAAAAA I Told You </b> </summary>
             <img src="https://github.com/Reconer07/Reconer07.github.io/blob/master/77A03A4D-99F1-43FC-8EB0-CED55E39B847.jpeg?raw=true" >
          </details>
        </details>
