@@ -1,15 +1,15 @@
 ## Welcome to ATom GitHub Pages
 <details>
   <summary> <b> >Don't Click Here! </b> </summary>
-  <details>
+  > <details>
     <summary> <b> >This is really no secret </b> </summary>
-    <details>
+    > <details>
        <summary> <b> >I Said No Secret Here! </b>  </summary>
-      <details>
+      > <details>
         <summary> <b> >Enough! Don't have anything Here! </b> </summary>
-        <details>
+        > <details>
           <summary> <b> >TADAAAAA I Told You </b> </summary>
-            <img src="https://github.com/Reconer07/Reconer07.github.io/blob/master/77A03A4D-99F1-43FC-8EB0-CED55E39B847.jpeg?raw=true" >
+            > <img src="https://github.com/Reconer07/Reconer07.github.io/blob/master/77A03A4D-99F1-43FC-8EB0-CED55E39B847.jpeg?raw=true" >
          </details>
        </details>
      </details>
